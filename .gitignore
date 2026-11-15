@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+dist-ssr/
+
+# Environment variables
+**/.env
+**/.env.*
+!.env.example
+
+# Local files
+*.local
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Other IDE/system files
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
